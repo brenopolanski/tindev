@@ -69,3 +69,20 @@ $ yarn android
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
 - [Socket.io client](https://github.com/socketio/socket.io-client)
+
+## Screenshots
+
+### Browser App
+
+### Mobile App
+
+<p align="center">
+  <img src="./screenshots/mobile1.png" width="210" />
+  <img src="./screenshots/mobile2.png" width="210" />
+  <img src="./screenshots/mobile3.png" width="210" />
+  <img src="./screenshots/mobile4.png" width="210" />
+</p>
+
+## License
+
+
