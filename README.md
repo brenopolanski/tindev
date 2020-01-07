@@ -74,6 +74,13 @@ $ yarn android
 
 ### Browser App
 
+<p align="center">
+	<img src="./screenshots/app1.png" width="430" />
+	<img src="./screenshots/app2.png" width="430" />
+	<img src="./screenshots/app3.png" width="430" />
+	<img src="./screenshots/app4.png" width="430" />
+</p>
+
 ### Mobile App
 
 <p align="center">
@@ -85,4 +92,4 @@ $ yarn android
 
 ## License
 
-
+[MIT License](https://brenopolanski.mit-license.org/) © Breno Polanski
